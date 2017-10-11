@@ -4,7 +4,7 @@
 -- statements if you choose to use it.
 --
 -- You can write comments in this file by starting them with two dashes, like
--- these lines here.
+-- these lines here, test.
 
 create table players (
   name varchar(20) not null,
